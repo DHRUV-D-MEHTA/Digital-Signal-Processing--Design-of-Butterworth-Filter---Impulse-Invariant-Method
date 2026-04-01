@@ -100,3 +100,4 @@ grid on;
 ## OUTPUT:
 
 ## RESULT:
+![WhatsApp Image 2026-04-01 at 6 06 47 PM](https://github.com/user-attachments/assets/3dc34cea-d71c-45d2-9994-1436da45f567)
