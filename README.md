@@ -98,6 +98,7 @@ title('Magnitude Response Butterworth LPF');
 grid on;
 
 ## OUTPUT:
+<img width="1915" height="1016" alt="Screenshot 2026-03-30 120826" src="https://github.com/user-attachments/assets/397173e3-942c-43cf-b3ea-2860fee236d8" />
 
 ## RESULT:
 ![WhatsApp Image 2026-04-01 at 6 06 47 PM](https://github.com/user-attachments/assets/3dc34cea-d71c-45d2-9994-1436da45f567)
